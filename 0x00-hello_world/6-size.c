@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - main function entry point
- *  DESCRIPTION: prints the size of various tpes on the computer it compiled and run on
+ *  DESCRIPTION: prints the sizeof
  *  Return: 0
  */
 int main(void)
@@ -16,6 +16,7 @@ int main(void)
 	printf("Size of an int: %d byte(s)\n", intSize);
 	printf("Size of a long int: %d byte(s)\n", longIntSize);
 	printf("Size of a long long int: %d byte(s)\n" ,longLongIntSize);
-	printf("Size of a float: %d byte(s)\n", floatSize);
+	printf("Size of a float: %d byte(s)\n" , floatSize); 
+
 	return (0);
 }
