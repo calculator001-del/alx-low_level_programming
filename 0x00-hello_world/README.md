@@ -5,3 +5,4 @@ This script is for execution
 5. This script is for c program tha prints proper grammer
 6. this script print sizeof
 6. this script is for generating assembly code
+7. this program is for printing the desired command
