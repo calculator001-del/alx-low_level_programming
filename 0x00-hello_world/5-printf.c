@@ -1,14 +1,12 @@
 #include <stdio.h>
-
 /**
- * main - Entry point 
- * DESCRIPTION: print the specified script
- * Return: Always 0 (Success)
+ * main - main function entry point
+ * DESCRIPTION: prints the specified string
+ *  Return: 0
  */
 int main(void)
 {
-	char a[] = "with proper grammer, but the outcome is a piece of art, \n";
-
+	char a[] = "with proper grammar, but the outcome is a piece of art,\n";
 	printf("%s", a);
 	return (0);
 }
