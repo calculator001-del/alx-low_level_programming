@@ -8,3 +8,4 @@ negative or positive
 7. print lowercase in reverse
 8. print numbers of base 16 in lowercase
 9. print allpossible combination of single-digit numbers
+10. program prints all possible combination of two digits
