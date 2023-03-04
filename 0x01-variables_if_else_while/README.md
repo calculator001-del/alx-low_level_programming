@@ -7,3 +7,4 @@ negative or positive
 6. print all single digit numbers
 7. print lowercase in reverse
 8. print numbers of base 16 in lowercase
+9. print allpossible combination of single-digit numbers
