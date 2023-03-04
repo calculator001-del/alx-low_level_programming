@@ -10,3 +10,4 @@ negative or positive
 9. print allpossible combination of single-digit numbers
 10. program prints all possible combination of two digits
 11. program will print all possible combination of tree digits
+12. program prints all possible combinations of two two-digit numbers
