@@ -6,3 +6,4 @@ negative or positive
 5. print single digit number of base 10 starting from 0
 6. print all single digit numbers
 7. print lowercase in reverse
+8. print numbers of base 16 in lowercase
