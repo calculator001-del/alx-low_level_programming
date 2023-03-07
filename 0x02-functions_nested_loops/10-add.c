@@ -16,7 +16,7 @@ int add(int a, int b)
 }
 
 
-11-print_to_98.c
+11 - print_to_98.c
 
 #include <stdio.h>
 #include "main.h"
