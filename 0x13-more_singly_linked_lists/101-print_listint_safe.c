@@ -12,9 +12,7 @@ size_t print_listint_safe(const listint_t *head);
  * Return: If the list is not looped - 0.
  * Otherwise - the number of unique nodes in the list.
  */
-
 size_t looped_listint_len(const listint_t *head)
-
 {
  const listint_t *tortoise, *hare;
  size_t nodes = 1;

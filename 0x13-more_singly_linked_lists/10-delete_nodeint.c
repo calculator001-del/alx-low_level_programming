@@ -7,9 +7,7 @@
  *
  * Return: 1 (Success), or -1 (Fail)
  */
-
 int delete_nodeint_at_index(listint_t **head, unsigned int index)
-
 {
  listint_t *temp = *head;
  listint_t *current = NULL;
