@@ -7,11 +7,12 @@
  * @argv:array containing command line arguments
  *
  * Description: the program prints the arguments passed to the command line.
- * Return: zero (always success)
+ * Return: exit(EXIT_SUCCESS)
  */
 
 int main(int argc, char *argv[])
 {
-	printf("%s\n", argv[0]);
-	return (0);
+	while (argc--)
+	printf("%s\n", *argv++);
+	exit(EXIT_SUCCESS);
 }
