@@ -13,13 +13,13 @@
 
 int main(int argc, char *argv[])
 {
-	char **arg_ptr = argv;
-
-	while (*arg_ptr != NULL)
+	if (argv == 0)
 	{
-		arg_ptr++;
-		argc++;
+		return (0);
 	}
-		printf("%d\n", argc - 1);
+	else
+	{
+	printf("%d\n", argc - 1);
+	}
 	return (0);
 }
